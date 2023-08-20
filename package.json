@@ -29,10 +29,7 @@
     "jsdom": "^22.1.0",
     "ngrok": "^5.0.0-beta.2",
     "node-fetch": "^3.3.2",
-    "request": "^2.88.2",
-    "request-promise": "^0.0.1",
     "sqlite3": "^5.1.6",
-    "xmldom": "^0.6.0",
     "xpath": "^0.0.33"
   }
 }
