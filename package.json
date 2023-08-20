@@ -1,0 +1,38 @@
+{
+  "name": "wordle",
+  "version": "1.0.0",
+  "description": "discord bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git clone https://github.com/discord/discord-example-app.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "javascript",
+    "node.js",
+    "chatbot"
+  ],
+  "author": "Seb",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "cheerio": "^1.0.0-rc.12",
+    "discord-interactions": "^3.4.0",
+    "discord.js": "^14.12.1",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "jsdom": "^22.1.0",
+    "ngrok": "^5.0.0-beta.2",
+    "node-fetch": "^3.3.2",
+    "request": "^2.88.2",
+    "request-promise": "^0.0.1",
+    "sqlite3": "^5.1.6",
+    "xmldom": "^0.6.0",
+    "xpath": "^0.0.33"
+  }
+}
