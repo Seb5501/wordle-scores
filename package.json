@@ -5,7 +5,8 @@
   "main": "app.js",
   "scripts": {
     "test": "test",
-    "build": "tsc"
+    "build": "tsc",
+    "start": "node dist/app.cjs"
   },
   "repository": {
     "type": "git",
